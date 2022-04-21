@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
+   
+   Arun Reddy   Arun5@gmail.com             @arun.training
 
 
 # THANKS
