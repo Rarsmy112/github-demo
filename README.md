@@ -1,6 +1,7 @@
 # github-demo
 A simple demo repository to know the basic git workflow
 Adding a line for rebase example, then more changes from my feature branch too.
+Updating for emergency fix after stash
 ## Introduction
 This example is to show different parts of the Git repository and various commands using a web project.
 
